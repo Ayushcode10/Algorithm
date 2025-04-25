@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2sKt4nbnyYq5zKFjQkawEEuQaJ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AggressiveCows.executor": "Debug",
+    "Application.BinarySearch.Main.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BrainPower.executor": "Debug",
+    "Application.CheckSorted.executor": "Run",
+    "Application.DeleteOperation.executor": "Run",
+    "Application.DesignHashSet.executor": "Run",
+    "Application.DiceCombinations.executor": "Run",
+    "Application.EquilibriumPoint.executor": "Run",
+    "Application.FairPairs.executor": "Run",
+    "Application.GetEqualSubStrings.executor": "Debug",
+    "Application.GoodNumbers.executor": "Run",
+    "Application.GoodPairs.executor": "Debug",
+    "Application.HouseRobber.executor": "Run",
+    "Application.HouseRobber2.executor": "Run",
+    "Application.IncreasingArr.executor": "Run",
+    "Application.Knapsack01.executor": "Run",
+    "Application.KokoBanana.executor": "Debug",
+    "Application.LCS.executor": "Run",
+    "Application.LIS.executor": "Run",
+    "Application.LargestRectangleHistogram.executor": "Run",
+    "Application.LargestRowSum.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.Main2.executor": "Run",
+    "Application.MatrixBlockSum.executor": "Run",
+    "Application.MaxAlternateSubseqSum.executor": "Run",
+    "Application.MaxAvgSubArray.executor": "Run",
+    "Application.MaxScoreSplit.executor": "Run",
+    "Application.MaxSumRectangle.executor": "Debug",
+    "Application.MaximumRecScore.executor": "Run",
+    "Application.MinSizeSubArr.executor": "Run",
+    "Application.MinimizingCoins.executor": "Run",
+    "Application.MissingCoinSum.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PartitionEqualSubSetSum.executor": "Debug",
+    "Application.PartitionEqualSubsetSum.executor": "Run",
+    "Application.PivotIndex.executor": "Debug",
+    "Application.PrintWave.executor": "Run",
+    "Application.QuickFindUF.executor": "Run",
+    "Application.Repetitions.executor": "Run",
+    "Application.RotateImage.executor": "Run",
+    "Application.RowWiseSum.executor": "Run",
+    "Application.SearchA2dMatrix.executor": "Run",
+    "Application.SearchInRotatedMat.executor": "Run",
+    "Application.SecretCode.executor": "Run",
+    "Application.SetMatrixZero.executor": "Run",
+    "Application.SlidingWindowMax.executor": "Run",
+    "Application.SpiralII.executor": "Run",
+    "Application.SpiralPrint.executor": "Run",
+    "Application.SymmetricInteger.executor": "Run",
+    "Application.TargetSum.executor": "Run",
+    "Application.TransPoseOfMatrix.executor": "Debug",
+    "Application.UniqueOccurrences.executor": "Run",
+    "Application.XORSUM.executor": "Run",
+    "Application.arr.executor": "Run",
+    "Application.chainedLL.executor": "Run",
+    "Application.deleteMiddleOfStack.executor": "Run",
+    "Application.ks.executor": "Run",
+    "Application.kthDistinctString.executor": "Debug",
+    "Application.main.executor": "Run",
+    "Application.missingAndRepeated.executor": "Run",
+    "Application.presuf.executor": "Run",
+    "Application.productExceptSelf.executor": "Run",
+    "Application.rabbitsInForest.executor": "Run",
+    "Application.rangeSumQuery2D.executor": "Run",
+    "Application.reverseString.executor": "Debug",
+    "Application.runningSum.executor": "Run",
+    "Application.shiftLetters.executor": "Debug",
+    "Application.singleElementSorted.executor": "Run",
+    "Application.suffixSum.executor": "Run",
+    "Application.sumOfAbsoluteDiff.executor": "Run",
+    "Application.twoSum.executor": "Run",
+    "Application.weirdAlgo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayush\IdeaProjects\Algorithm\src\BinarySearch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LIS">
+    <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.LIS" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestRectangleHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestRectangleHistogram" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartitionEqualSubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.PartitionEqualSubsetSum" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.TargetSum" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.ks" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LIS" />
+        <item itemvalue="Application.LargestRectangleHistogram" />
+        <item itemvalue="Application.TargetSum" />
+        <item itemvalue="Application.PartitionEqualSubsetSum" />
+        <item itemvalue="Application.ks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="" />
+      <created>1738215909465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738215909465</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PrefixSum/sumOfAbsoluteDiff.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/AggressiveCows.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/KokoBanana.java</url>
+          <line>23</line>
+          <properties class="BinarySearch.KokoBanana">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Misc/twoSum.java</url>
+          <line>7</line>
+          <properties class="Misc.twoSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PrefixSum/PivotIndex.java</url>
+          <line>8</line>
+          <properties class="PrefixSum.PivotIndex" method="pivot">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/Main.java</url>
+          <line>27</line>
+          <properties class="BinarySearch.Main" method="countNeg">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Set_Map/GoodPairs.java</url>
+          <line>12</line>
+          <properties class="Set_Map.GoodPairs" method="pairs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Set_Map/kthDistinctString.java</url>
+          <line>9</line>
+          <properties class="Set_Map.kthDistinctString" method="kthDistinct">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SlidingWindow/Main.java</url>
+          <line>34</line>
+          <properties class="SlidingWindow.Main" method="ans">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SlidingWindow/MinSizeSubArr.java</url>
+          <line>7</line>
+          <properties class="SlidingWindow.MinSizeSubArr" method="minSubArrLen">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Matrix2D/TransPoseOfMatrix.java</url>
+          <line>12</line>
+          <properties class="Matrix2D.TransPoseOfMatrix" method="transpose">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Kadane/MaxSumRectangle.java</url>
+          <line>29</line>
+          <properties class="Kadane.MaxSumRectangle" method="maximumSumRectangle">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/reverseString.java</url>
+          <line>7</line>
+          <properties class="Recursion.reverseString" method="reverse">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/April/XORSUM.java</url>
+          <line>18</line>
+          <properties class="April.XORSUM" method="subsetXORSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/April/PartitionEqualSubSetSum.java</url>
+          <line>50</line>
+          <properties class="April.PartitionEqualSubSetSum" method="dp">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/April/SymmetricInteger.java</url>
+          <line>91</line>
+          <properties class="April.SymmetricInteger" method="count">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DP/HouseRobber.java</url>
+          <line>19</line>
+          <properties class="DP.HouseRobber" method="max">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DP/MaxAlternateSubseqSum.java</url>
+          <line>30</line>
+          <properties class="DP.MaxAlternateSubseqSum" method="dpmax">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
