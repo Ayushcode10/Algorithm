@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="" />
+    <list default="true" id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MTE/Prefix/EquilibriumIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Prefix/prefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Prefix/splitEqualParts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +45,7 @@
     "Application.DeleteOperation.executor": "Run",
     "Application.DesignHashSet.executor": "Run",
     "Application.DiceCombinations.executor": "Run",
+    "Application.EquilibriumIndex.executor": "Run",
     "Application.EquilibriumPoint.executor": "Run",
     "Application.FairPairs.executor": "Run",
     "Application.GetEqualSubStrings.executor": "Debug",
@@ -80,6 +88,7 @@
     "Application.SlidingWindowMax.executor": "Run",
     "Application.SpiralII.executor": "Run",
     "Application.SpiralPrint.executor": "Run",
+    "Application.Suffix.executor": "Run",
     "Application.SymmetricInteger.executor": "Run",
     "Application.TargetSum.executor": "Run",
     "Application.TransPoseOfMatrix.executor": "Debug",
@@ -92,6 +101,7 @@
     "Application.kthDistinctString.executor": "Debug",
     "Application.main.executor": "Run",
     "Application.missingAndRepeated.executor": "Run",
+    "Application.prefixSum.executor": "Run",
     "Application.presuf.executor": "Run",
     "Application.productExceptSelf.executor": "Run",
     "Application.rabbitsInForest.executor": "Run",
@@ -100,6 +110,7 @@
     "Application.runningSum.executor": "Run",
     "Application.shiftLetters.executor": "Debug",
     "Application.singleElementSorted.executor": "Run",
+    "Application.splitEqualParts.executor": "Debug",
     "Application.suffixSum.executor": "Run",
     "Application.sumOfAbsoluteDiff.executor": "Run",
     "Application.twoSum.executor": "Run",
@@ -116,7 +127,20 @@
       <recent name="C:\Users\ayush\IdeaProjects\Algorithm\src\BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LIS">
+  <component name="RunManager" selected="Application.splitEqualParts">
+    <configuration name="EquilibriumIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTE.Prefix.EquilibriumIndex" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MTE.Prefix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.LIS" />
       <module name="Algorithm" />
@@ -130,19 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestRectangleHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestRectangleHistogram" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PartitionEqualSubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.PartitionEqualSubsetSum" />
+    <configuration name="Suffix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTE.Prefix.Suffix" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="MTE.Prefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.TargetSum" />
+    <configuration name="prefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTE.Prefix.prefixSum" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="MTE.Prefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.ks" />
+    <configuration name="splitEqualParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTE.Prefix.splitEqualParts" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="MTE.Prefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.splitEqualParts" />
+        <item itemvalue="Application.EquilibriumIndex" />
+        <item itemvalue="Application.prefixSum" />
+        <item itemvalue="Application.Suffix" />
         <item itemvalue="Application.LIS" />
-        <item itemvalue="Application.LargestRectangleHistogram" />
-        <item itemvalue="Application.TargetSum" />
-        <item itemvalue="Application.PartitionEqualSubsetSum" />
-        <item itemvalue="Application.ks" />
       </list>
     </recent_temporary>
   </component>
@@ -204,11 +221,6 @@
           <url>file://$PROJECT_DIR$/src/PrefixSum/sumOfAbsoluteDiff.java</url>
           <line>31</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinarySearch/AggressiveCows.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/BinarySearch/KokoBanana.java</url>
