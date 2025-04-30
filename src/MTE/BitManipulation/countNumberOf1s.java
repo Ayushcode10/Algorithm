@@ -1,0 +1,19 @@
+package MTE.BitManipulation;
+
+import java.util.Arrays;
+
+public class countNumberOf1s {
+    /*Algo
+        1.
+    */
+    public static void main(String[] args) {
+        System.out.println();
+    }
+    private static int[] count(int n){
+        int[] res = new int[n+1];
+        for (int i = 1; i <= n; i++) {
+            res[i] = res[i>>1] + (i&1);
+        }
+        return res;
+    }
+}

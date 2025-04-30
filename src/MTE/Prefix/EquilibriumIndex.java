@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class EquilibriumIndex {
     public static void main(String[] args) {
-        int[] arr = {1,7,3,6,5,6};
-        System.out.println(findEqui(arr));
+        int[] arr = {1,2,3,5,6};
+        System.out.println(e(arr));
     }
 
     //SC O(n)
@@ -24,6 +24,24 @@ public class EquilibriumIndex {
                 return i;
             }
             lsum += arr[i];
+        }
+        return -1;
+    }
+
+    private static int e(int[] arr){
+        int n = arr.length;
+        int ls =0;
+        int ts = 0;
+        for(int i : arr){
+            ts += i;
+        }
+        for (int i = 0; i < n; i++) {
+            int rs = 0;
+            rs += ts - ls - arr[i];
+            if(ls == rs){
+                return arr[i];
+            }
+            ls += arr[i];
         }
         return -1;
     }

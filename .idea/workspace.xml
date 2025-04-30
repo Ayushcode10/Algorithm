@@ -5,12 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MTE/Prefix/EquilibriumIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MTE/Prefix/prefixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MTE/Prefix/splitEqualParts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/BitManipulation/countNumberOf1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Hashing/MaxFreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Hashing/TopKelements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Hashing/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Hashing/subarrSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/LinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/LinkedList/MergeTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Misc/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Misc/DuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Misc/KthLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Misc/LcsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Misc/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Misc/LongestCommonSubseq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Misc/MaxProdSubArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Misc/ValidParen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Misc/isPalin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Stack/LargestRectangleInHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Stack/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Stack/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Stack/NextSmallerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/Stack/TrappingWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/slidingWindow/DequeMaxSlideWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/slidingWindow/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MTE/slidingWindow/LongestSubString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/MTE/Prefix/EquilibriumIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/MTE/Prefix/EquilibriumIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MTE/Prefix/EquilibriumIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MTE/Prefix/EquilibriumIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MTE/slidingWindow/maxSumSubarr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MTE/slidingWindow/maxSumSubarr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +65,10 @@
     "Application.BrainPower.executor": "Debug",
     "Application.CheckSorted.executor": "Run",
     "Application.DeleteOperation.executor": "Run",
+    "Application.DequeMaxSlideWindow.executor": "Debug",
     "Application.DesignHashSet.executor": "Run",
     "Application.DiceCombinations.executor": "Run",
+    "Application.DuplicateNumber.executor": "Debug",
     "Application.EquilibriumIndex.executor": "Run",
     "Application.EquilibriumPoint.executor": "Run",
     "Application.FairPairs.executor": "Run",
@@ -56,22 +80,35 @@
     "Application.IncreasingArr.executor": "Run",
     "Application.Knapsack01.executor": "Run",
     "Application.KokoBanana.executor": "Debug",
+    "Application.KthLargestElement.executor": "Run",
     "Application.LCS.executor": "Run",
     "Application.LIS.executor": "Run",
     "Application.LargestRectangleHistogram.executor": "Run",
+    "Application.LargestRectangleInHistogram.executor": "Debug",
     "Application.LargestRowSum.executor": "Run",
+    "Application.LcsString.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.LongestCommonPrefix.executor": "Debug",
+    "Application.LongestCommonSubseq.executor": "Run",
+    "Application.LongestPalindrome.executor": "Run",
+    "Application.LongestSubString.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.Main2.executor": "Run",
     "Application.MatrixBlockSum.executor": "Run",
     "Application.MaxAlternateSubseqSum.executor": "Run",
     "Application.MaxAvgSubArray.executor": "Run",
+    "Application.MaxFreq.executor": "Run",
+    "Application.MaxProdSubArr.executor": "Run",
     "Application.MaxScoreSplit.executor": "Run",
     "Application.MaxSumRectangle.executor": "Debug",
     "Application.MaximumRecScore.executor": "Run",
+    "Application.MergeTwoSortedList.executor": "Run",
     "Application.MinSizeSubArr.executor": "Run",
     "Application.MinimizingCoins.executor": "Run",
     "Application.MissingCoinSum.executor": "Run",
     "Application.MissingNumber.executor": "Run",
+    "Application.NextGreaterElement.executor": "Run",
+    "Application.NextSmallerElement.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.PartitionEqualSubSetSum.executor": "Debug",
     "Application.PartitionEqualSubsetSum.executor": "Run",
@@ -92,14 +129,20 @@
     "Application.SymmetricInteger.executor": "Run",
     "Application.TargetSum.executor": "Run",
     "Application.TransPoseOfMatrix.executor": "Debug",
+    "Application.TrappingWater.executor": "Debug",
+    "Application.TwoSum.executor": "Run",
     "Application.UniqueOccurrences.executor": "Run",
+    "Application.ValidParen.executor": "Run",
     "Application.XORSUM.executor": "Run",
     "Application.arr.executor": "Run",
     "Application.chainedLL.executor": "Run",
+    "Application.countNumberOf1s.executor": "Run",
     "Application.deleteMiddleOfStack.executor": "Run",
+    "Application.isPalin.executor": "Run",
     "Application.ks.executor": "Run",
     "Application.kthDistinctString.executor": "Debug",
     "Application.main.executor": "Run",
+    "Application.maxSumSubarr.executor": "Run",
     "Application.missingAndRepeated.executor": "Run",
     "Application.prefixSum.executor": "Run",
     "Application.presuf.executor": "Run",
@@ -111,6 +154,7 @@
     "Application.shiftLetters.executor": "Debug",
     "Application.singleElementSorted.executor": "Run",
     "Application.splitEqualParts.executor": "Debug",
+    "Application.subarrSum.executor": "Run",
     "Application.suffixSum.executor": "Run",
     "Application.sumOfAbsoluteDiff.executor": "Run",
     "Application.twoSum.executor": "Run",
@@ -127,13 +171,13 @@
       <recent name="C:\Users\ayush\IdeaProjects\Algorithm\src\BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.splitEqualParts">
-    <configuration name="EquilibriumIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MTE.Prefix.EquilibriumIndex" />
+  <component name="RunManager" selected="Application.DuplicateNumber">
+    <configuration name="DuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTE.Misc.DuplicateNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MTE.Prefix.*" />
+          <option name="PATTERN" value="MTE.Misc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LIS" />
+    <configuration name="KthLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTE.Misc.KthLargestElement" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="MTE.Misc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Suffix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MTE.Prefix.Suffix" />
+    <configuration name="LcsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTE.Misc.LcsString" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MTE.Prefix.*" />
+          <option name="PATTERN" value="MTE.Misc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MTE.Prefix.prefixSum" />
+    <configuration name="ValidParen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTE.Misc.ValidParen" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MTE.Prefix.*" />
+          <option name="PATTERN" value="MTE.Misc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="splitEqualParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MTE.Prefix.splitEqualParts" />
+    <configuration name="isPalin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTE.Misc.isPalin" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MTE.Prefix.*" />
+          <option name="PATTERN" value="MTE.Misc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.splitEqualParts" />
-        <item itemvalue="Application.EquilibriumIndex" />
-        <item itemvalue="Application.prefixSum" />
-        <item itemvalue="Application.Suffix" />
-        <item itemvalue="Application.LIS" />
+        <item itemvalue="Application.DuplicateNumber" />
+        <item itemvalue="Application.ValidParen" />
+        <item itemvalue="Application.KthLargestElement" />
+        <item itemvalue="Application.LcsString" />
+        <item itemvalue="Application.isPalin" />
       </list>
     </recent_temporary>
   </component>
@@ -365,6 +409,69 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MTE/slidingWindow/DequeMaxSlideWindow.java</url>
+          <line>39</line>
+          <properties class="MTE.slidingWindow.DequeMaxSlideWindow" method="prac">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MTE/BitManipulation/countNumberOf1s.java</url>
+          <line>11</line>
+          <properties class="MTE.BitManipulation.countNumberOf1s" method="count">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MTE/Stack/TrappingWater.java</url>
+          <line>18</line>
+          <properties class="MTE.Stack.TrappingWater" method="trap">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MTE/Stack/NextGreaterElement.java</url>
+          <line>19</line>
+          <properties class="MTE.Stack.NextGreaterElement" method="nge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MTE/Stack/LargestRectangleInHistogram.java</url>
+          <line>18</line>
+          <properties class="MTE.Stack.LargestRectangleInHistogram" method="largestRec">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MTE/Misc/LongestCommonPrefix.java</url>
+          <line>9</line>
+          <properties class="MTE.Misc.LongestCommonPrefix" method="lcp">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MTE/Misc/DuplicateNumber.java</url>
+          <line>10</line>
+          <properties class="MTE.Misc.DuplicateNumber" method="dupli">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
