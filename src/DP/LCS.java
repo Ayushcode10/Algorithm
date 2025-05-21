@@ -2,8 +2,8 @@ package DP;
 
 public class LCS {
     public static void main(String[] args) {
-        String s1 = "abc";
-        String s2 = "abc";
+        String s1 = "adbcfg";
+        String s2 = "abcg";
 
         System.out.println(longestCommonSubsequence(s1,s2));
     }
