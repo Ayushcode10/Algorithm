@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CSES/CommonDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSES/CountingDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/ActivitySelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/DP/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/DP/LCS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/MTE/Misc/DuplicateNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/MTE/Misc/DuplicateNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/LCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/LCS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MTE/Misc/DuplicateNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MTE/Misc/DuplicateNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MTE/slidingWindow/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MTE/slidingWindow/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSES/CountingDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSES/CountingDivisors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greedy/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +118,7 @@
     "Application.isPalin.executor": "Run",
     "Application.ks.executor": "Run",
     "Application.kthDistinctString.executor": "Debug",
-    "Application.main.executor": "Run",
+    "Application.main.executor": "Debug",
     "Application.maxSumSubarr.executor": "Run",
     "Application.missingAndRepeated.executor": "Run",
     "Application.prefixSum.executor": "Run",
@@ -155,7 +148,7 @@
       <recent name="C:\Users\ayush\IdeaProjects\Algorithm\src\BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ActivitySelection">
+  <component name="RunManager" selected="Application.main">
     <configuration name="ActivitySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.ActivitySelection" />
       <module name="Algorithm" />
@@ -208,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MTE.Misc.ValidParen" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MTE.Misc.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.ActivitySelection" />
         <item itemvalue="Application.CountingDivisors" />
         <item itemvalue="Application.LCS" />
         <item itemvalue="Application.DuplicateNumber" />
-        <item itemvalue="Application.ValidParen" />
       </list>
     </recent_temporary>
   </component>
@@ -456,6 +449,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Greedy/main.java</url>
+          <line>17</line>
+          <properties class="Greedy.main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
