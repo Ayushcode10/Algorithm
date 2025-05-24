@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/NumberTheory/PrimalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberTheory/SieveOfEratosthenes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CSES/CountingDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSES/CountingDivisors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Greedy/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/CSES/CountingDivisors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/CSES/CountingDivisors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Greedy/main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +92,7 @@
     "Application.PartitionEqualSubSetSum.executor": "Debug",
     "Application.PartitionEqualSubsetSum.executor": "Run",
     "Application.PivotIndex.executor": "Debug",
+    "Application.PrimalityTest.executor": "Run",
     "Application.PrintWave.executor": "Run",
     "Application.QuickFindUF.executor": "Run",
     "Application.Repetitions.executor": "Run",
@@ -99,6 +102,7 @@
     "Application.SearchInRotatedMat.executor": "Run",
     "Application.SecretCode.executor": "Run",
     "Application.SetMatrixZero.executor": "Run",
+    "Application.SieveOfEratosthenes.executor": "Run",
     "Application.SlidingWindowMax.executor": "Run",
     "Application.SpiralII.executor": "Run",
     "Application.SpiralPrint.executor": "Run",
@@ -148,7 +152,7 @@
       <recent name="C:\Users\ayush\IdeaProjects\Algorithm\src\BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.SieveOfEratosthenes">
     <configuration name="ActivitySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.ActivitySelection" />
       <module name="Algorithm" />
@@ -175,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MTE.Misc.DuplicateNumber" />
+    <configuration name="PrimalityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberTheory.PrimalityTest" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MTE.Misc.*" />
+          <option name="PATTERN" value="NumberTheory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LCS" />
+    <configuration name="SieveOfEratosthenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberTheory.SieveOfEratosthenes" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="NumberTheory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SieveOfEratosthenes" />
+        <item itemvalue="Application.PrimalityTest" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.ActivitySelection" />
         <item itemvalue="Application.CountingDivisors" />
-        <item itemvalue="Application.LCS" />
-        <item itemvalue="Application.DuplicateNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -449,15 +453,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Greedy/main.java</url>
-          <line>17</line>
-          <properties class="Greedy.main" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
