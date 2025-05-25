@@ -10,7 +10,7 @@ package NumberTheory;
 public class SieveOfEratosthenes {
     public static void main(String[] args) {
         int n = 100; // Example usage
-        int count = primes(n);
+        int count = erat(n);
         System.out.println("Number of primes up to " + n + ": " + count);
     }
     private static int primes(int n){
@@ -34,4 +34,28 @@ public class SieveOfEratosthenes {
         }
         return count;
     }
+
+    private static int erat(int n){
+        int[] arr = new int[n+1];
+        for (int i = 0; i <=n; i++) {
+            arr[i] = 1;
+            arr[0] = arr[1] = 0;
+        }
+        for (int i = 1; i <=n; i++) {
+            if(arr[i] == 1){
+            for (int j = i*i; j <=n; j+=i) {
+                    arr[j] = 0;
+                }
+            }
+        }
+        int count = 0;
+        for (int i = 2; i <=n; i++) {
+            if(arr[i] == 1){
+                count++;
+            }
+        }
+        return count;
+
+    }
+
 }

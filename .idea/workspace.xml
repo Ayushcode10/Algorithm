@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberTheory/PrimalityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberTheory/SieveOfEratosthenes.java" afterDir="false" />
+    <list default="true" id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/src/Greedy/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/MaximumPerimeterTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberTheory/BinaryExponentiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberTheory/PrimeFactorisation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/CSES/CountingDivisors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/CSES/CountingDivisors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Greedy/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/NumberTheory/PrimalityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/NumberTheory/PrimalityTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/NumberTheory/SieveOfEratosthenes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/NumberTheory/SieveOfEratosthenes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberTheory/PrimalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberTheory/PrimalityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberTheory/SieveOfEratosthenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberTheory/SieveOfEratosthenes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,7 @@
   "keyToString": {
     "Application.ActivitySelection.executor": "Run",
     "Application.AggressiveCows.executor": "Debug",
+    "Application.BinaryExponentiation.executor": "Run",
     "Application.BinarySearch.Main.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BrainPower.executor": "Debug",
@@ -93,6 +98,7 @@
     "Application.PartitionEqualSubsetSum.executor": "Run",
     "Application.PivotIndex.executor": "Debug",
     "Application.PrimalityTest.executor": "Run",
+    "Application.PrimeFactorisation.executor": "Run",
     "Application.PrintWave.executor": "Run",
     "Application.QuickFindUF.executor": "Run",
     "Application.Repetitions.executor": "Run",
@@ -125,6 +131,7 @@
     "Application.main.executor": "Debug",
     "Application.maxSumSubarr.executor": "Run",
     "Application.missingAndRepeated.executor": "Run",
+    "Application.perimetre.executor": "Run",
     "Application.prefixSum.executor": "Run",
     "Application.presuf.executor": "Run",
     "Application.productExceptSelf.executor": "Run",
@@ -152,26 +159,13 @@
       <recent name="C:\Users\ayush\IdeaProjects\Algorithm\src\BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SieveOfEratosthenes">
-    <configuration name="ActivitySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.ActivitySelection" />
+  <component name="RunManager" selected="Application.perimetre">
+    <configuration name="BinaryExponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberTheory.BinaryExponentiation" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountingDivisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSES.CountingDivisors" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CSES.*" />
+          <option name="PATTERN" value="NumberTheory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,6 +175,19 @@
     </configuration>
     <configuration name="PrimalityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberTheory.PrimalityTest" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NumberTheory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeFactorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberTheory.PrimeFactorisation" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -205,8 +212,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.main" />
+    <configuration name="perimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.perimetre" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -220,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.perimetre" />
+        <item itemvalue="Application.PrimeFactorisation" />
         <item itemvalue="Application.SieveOfEratosthenes" />
+        <item itemvalue="Application.BinaryExponentiation" />
         <item itemvalue="Application.PrimalityTest" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.ActivitySelection" />
-        <item itemvalue="Application.CountingDivisors" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +244,29 @@
       <option name="presentableId" value="Default" />
       <updated>1738215909465</updated>
     </task>
+    <task id="LOCAL-00001" summary="new commits">
+      <option name="closed" value="true" />
+      <created>1748085871849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748085871849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1748085894486</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748085894486</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commits" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
