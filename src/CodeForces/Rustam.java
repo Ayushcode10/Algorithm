@@ -1,7 +1,8 @@
 package CodeForces;
 
-public class ExpensiveNumber {
+public class Rustam {
     public static void main(String[] args) {
 
     }
+
 }

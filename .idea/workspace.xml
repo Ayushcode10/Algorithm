@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2b732bb-c583-49ed-ace1-a1a8b3f34684" name="Changes" comment="new commit">
-      <change afterPath="$PROJECT_DIR$/src/Greedy/GreedyFlorist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/MaximumPerimeterTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Gorilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Rustam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DistinctSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/AssignCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/LemonadeChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/ShortestJobFirst.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Greedy/perimetre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeForces/ExpensiveNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeForces/expensiveNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greedy/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy/trie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,134 +44,149 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ActivitySelection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AggressiveCows.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BinaryExponentiation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BrainPower.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CheckSorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountingDivisors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeleteOperation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DequeMaxSlideWindow.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DesignHashSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DiceCombinations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DuplicateNumber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.EquilibriumIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EquilibriumPoint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FairPairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GetEqualSubStrings.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.GoodNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GoodPairs.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.HouseRobber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HouseRobber2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncreasingArr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Knapsack01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KokoBanana.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.KthLargestElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LCS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LIS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestRectangleHistogram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestRectangleInHistogram.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LargestRowSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LcsString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestCommonPrefix.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LongestCommonSubseq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatrixBlockSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxAlternateSubseqSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxAvgSubArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxFreq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxProdSubArr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxScoreSplit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxSumRectangle.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MaximumRecScore.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoSortedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinSizeSubArr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimizingCoins.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingCoinSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextGreaterElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextSmallerElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PartitionEqualSubSetSum.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PartitionEqualSubsetSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PivotIndex.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PrimalityTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeFactorisation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintWave.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickFindUF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Repetitions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateImage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RowWiseSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchA2dMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInRotatedMat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecretCode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SetMatrixZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SieveOfEratosthenes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SlidingWindowMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralII.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Suffix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SymmetricInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TargetSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TransPoseOfMatrix.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TrappingWater.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniqueOccurrences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidParen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.XORSUM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.chainedLL.executor&quot;: &quot;Run&quot;,
-    &quot;Application.countNumberOf1s.executor&quot;: &quot;Run&quot;,
-    &quot;Application.deleteMiddleOfStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.isPalin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kthDistinctString.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.maxSumSubarr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.missingAndRepeated.executor&quot;: &quot;Run&quot;,
-    &quot;Application.perimetre.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prefixSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.presuf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.productExceptSelf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rabbitsInForest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rangeSumQuery2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseString.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.runningSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.shiftLetters.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.singleElementSorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.splitEqualParts.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.subarrSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.suffixSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumOfAbsoluteDiff.executor&quot;: &quot;Run&quot;,
-    &quot;Application.twoSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.weirdAlgo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ActivitySelection.executor": "Run",
+    "Application.AggressiveCows.executor": "Debug",
+    "Application.AssignCookies.executor": "Run",
+    "Application.BinaryExponentiation.executor": "Run",
+    "Application.BinarySearch.Main.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BrainPower.executor": "Debug",
+    "Application.CheckSorted.executor": "Run",
+    "Application.CountingDivisors.executor": "Run",
+    "Application.DeleteOperation.executor": "Run",
+    "Application.DequeMaxSlideWindow.executor": "Debug",
+    "Application.DesignHashSet.executor": "Run",
+    "Application.DiceCombinations.executor": "Run",
+    "Application.DuplicateNumber.executor": "Debug",
+    "Application.EquilibriumIndex.executor": "Run",
+    "Application.EquilibriumPoint.executor": "Run",
+    "Application.ExpensiveNumber.executor": "Debug",
+    "Application.FairPairs.executor": "Run",
+    "Application.GetEqualSubStrings.executor": "Debug",
+    "Application.GoodNumbers.executor": "Run",
+    "Application.GoodPairs.executor": "Debug",
+    "Application.Gorilla.executor": "Run",
+    "Application.HouseRobber.executor": "Run",
+    "Application.HouseRobber2.executor": "Run",
+    "Application.IncreasingArr.executor": "Run",
+    "Application.JumpGame.executor": "Debug",
+    "Application.Knapsack01.executor": "Run",
+    "Application.KokoBanana.executor": "Debug",
+    "Application.KthLargestElement.executor": "Run",
+    "Application.LCS.executor": "Run",
+    "Application.LIS.executor": "Run",
+    "Application.LargestRectangleHistogram.executor": "Run",
+    "Application.LargestRectangleInHistogram.executor": "Debug",
+    "Application.LargestRowSum.executor": "Run",
+    "Application.LcsString.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.LongestCommonPrefix.executor": "Debug",
+    "Application.LongestCommonSubseq.executor": "Run",
+    "Application.LongestPalindrome.executor": "Run",
+    "Application.LongestSubString.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.MatrixBlockSum.executor": "Run",
+    "Application.MaxAlternateSubseqSum.executor": "Run",
+    "Application.MaxAvgSubArray.executor": "Run",
+    "Application.MaxFreq.executor": "Run",
+    "Application.MaxProdSubArr.executor": "Run",
+    "Application.MaxScoreSplit.executor": "Run",
+    "Application.MaxSumRectangle.executor": "Debug",
+    "Application.MaximumRecScore.executor": "Run",
+    "Application.MergeTwoSortedList.executor": "Run",
+    "Application.MinSizeSubArr.executor": "Run",
+    "Application.MinimizingCoins.executor": "Run",
+    "Application.MissingCoinSum.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.NextGreaterElement.executor": "Run",
+    "Application.NextSmallerElement.executor": "Run",
+    "Application.Node$RenamingCities.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PartitionEqualSubSetSum.executor": "Debug",
+    "Application.PartitionEqualSubsetSum.executor": "Run",
+    "Application.PivotIndex.executor": "Debug",
+    "Application.PrimalityTest.executor": "Run",
+    "Application.PrimeFactorisation.executor": "Run",
+    "Application.PrintWave.executor": "Run",
+    "Application.QuickFindUF.executor": "Run",
+    "Application.RenamingCities (1).executor": "Run",
+    "Application.RenamingCities.executor": "Run",
+    "Application.Repetitions.executor": "Run",
+    "Application.RotateImage.executor": "Run",
+    "Application.RowWiseSum.executor": "Run",
+    "Application.SearchA2dMatrix.executor": "Run",
+    "Application.SearchInRotatedMat.executor": "Run",
+    "Application.SecretCode.executor": "Run",
+    "Application.SegmentTree.executor": "Run",
+    "Application.SetMatrixZero.executor": "Run",
+    "Application.ShortestJobFirst.executor": "Run",
+    "Application.SieveOfEratosthenes.executor": "Run",
+    "Application.SlidingWindowMax.executor": "Run",
+    "Application.SpiralII.executor": "Run",
+    "Application.SpiralPrint.executor": "Run",
+    "Application.Suffix.executor": "Run",
+    "Application.SymmetricInteger.executor": "Run",
+    "Application.TargetSum.executor": "Run",
+    "Application.TransPoseOfMatrix.executor": "Debug",
+    "Application.TrappingWater.executor": "Debug",
+    "Application.Trie.executor": "Debug",
+    "Application.TwoSum.executor": "Run",
+    "Application.UniqueOccurrences.executor": "Run",
+    "Application.ValidParen.executor": "Run",
+    "Application.XORSUM.executor": "Run",
+    "Application.arr.executor": "Run",
+    "Application.chainedLL.executor": "Run",
+    "Application.countNumberOf1s.executor": "Run",
+    "Application.deleteMiddleOfStack.executor": "Run",
+    "Application.expensiveNumber.executor": "Run",
+    "Application.isPalin.executor": "Run",
+    "Application.ks.executor": "Run",
+    "Application.kthDistinctString.executor": "Debug",
+    "Application.main.executor": "Debug",
+    "Application.maxSumSubarr.executor": "Run",
+    "Application.missingAndRepeated.executor": "Run",
+    "Application.perimetre.executor": "Run",
+    "Application.prefixSum.executor": "Run",
+    "Application.presuf.executor": "Run",
+    "Application.productExceptSelf.executor": "Run",
+    "Application.rabbitsInForest.executor": "Run",
+    "Application.rangeSumQuery2D.executor": "Run",
+    "Application.reverseString.executor": "Debug",
+    "Application.runningSum.executor": "Run",
+    "Application.shiftLetters.executor": "Debug",
+    "Application.singleElementSorted.executor": "Run",
+    "Application.splitEqualParts.executor": "Debug",
+    "Application.subarrSum.executor": "Run",
+    "Application.suffixSum.executor": "Run",
+    "Application.sumOfAbsoluteDiff.executor": "Run",
+    "Application.trie (1).executor": "Run",
+    "Application.trie (2).executor": "Run",
+    "Application.trie.executor": "Run",
+    "Application.twoSum.executor": "Run",
+    "Application.weirdAlgo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ayush\IdeaProjects\Algorithm\src\BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.perimetre">
-    <configuration name="BinaryExponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberTheory.BinaryExponentiation" />
+  <component name="RunManager" selected="Application.trie">
+    <configuration name="SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.SegmentTree" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NumberTheory.*" />
+          <option name="PATTERN" value="Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimalityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberTheory.PrimalityTest" />
+    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trie.Trie" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NumberTheory.*" />
+          <option name="PATTERN" value="Trie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeFactorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberTheory.PrimeFactorisation" />
+    <configuration name="trie (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.trie" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NumberTheory.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SieveOfEratosthenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberTheory.SieveOfEratosthenes" />
+    <configuration name="trie (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.trie" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NumberTheory.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,8 +233,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="perimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.perimetre" />
+    <configuration name="trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.trie" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -223,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.perimetre" />
-        <item itemvalue="Application.PrimeFactorisation" />
-        <item itemvalue="Application.SieveOfEratosthenes" />
-        <item itemvalue="Application.BinaryExponentiation" />
-        <item itemvalue="Application.PrimalityTest" />
+        <item itemvalue="Application.trie" />
+        <item itemvalue="Application.Trie" />
+        <item itemvalue="Application.SegmentTree" />
+        <item itemvalue="Application.trie (2)" />
+        <item itemvalue="Application.trie (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -486,6 +511,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Greedy/AssignCookies.java</url>
+          <line>11</line>
+          <properties class="Greedy.AssignCookies" method="findContentChildren">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Greedy/ShortestJobFirst.java</url>
+          <line>11</line>
+          <properties class="Greedy.ShortestJobFirst" method="sjf">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Greedy/JumpGame.java</url>
+          <line>8</line>
+          <properties class="Greedy.JumpGame" method="jumpGreedy">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
