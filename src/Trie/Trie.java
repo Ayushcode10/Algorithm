@@ -170,3 +170,4 @@ public class Trie {
         System.out.println(trie.countWordsEqualTo("apple"));
     }
 }
+
